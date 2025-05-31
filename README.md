@@ -8,8 +8,6 @@
 - [Problem Statement](#problem-statement)
 - [Solution](#solution)
 - [Key Features](#key-features)
-- [Contributing](#contributing)
-- [Contribution Guidelines](#contribution-guidelines)
 - [Tech Stack](#tech-stack)
 - [User-Friendly Experience](#user-friendly-experience)
 - [Future Enhancements](#future-enhancements)
