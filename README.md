@@ -2,27 +2,6 @@
 
 <br>
 
-<table align="center">
-    <thead align="center">
-        <tr border: 2px;>
-            <td><b> Stars</b></td>
-            <td><b> Forks</b></td>
-            <td><b> Issues</b></td>
-            <td><b> Open PRs</b></td>
-            <td><b> Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mansiruhil13/Bobble-AI?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/mansiruhil13/Bobble-AI?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mansiruhil13/Bobble-AI?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/mansiruhil13/Bobble-AI?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/mansiruhil13/Bobble-AI?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
-
 ## Table of Contents
 - [DESCRIPTION](#description)
 - [Why We Need This Application](#why-we-need-this-application)
